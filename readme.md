@@ -2,6 +2,10 @@
 
 dotnet build
 
+### Building client Release
+
+dotnet build -c Release
+
 ### Running Client with DNS address
 
 dotnet run google.fi "message" dns

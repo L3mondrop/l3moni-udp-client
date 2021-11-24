@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "l3moni-udp-client/1.0.0": {
+        "runtime": {
+          "l3moni-udp-client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "l3moni-udp-client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
