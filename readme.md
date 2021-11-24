@@ -4,8 +4,8 @@ dotnet build
 
 ### Running Client with DNS address
 
-dotnet run google.fi hello dns
+dotnet run google.fi "message" dns
 
 ### Running Client with IP address
 
-dotnet run 127.0.0.1 hello ip
+dotnet run 127.0.0.1 "message" ip
